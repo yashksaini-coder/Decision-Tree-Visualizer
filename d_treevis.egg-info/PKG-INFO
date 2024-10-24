@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: d-treevis
+Version: 1.0.0
+Summary: A library to visualize sklearn Decision Tree Classifiers.
+Author: yashksaini-coder
+Author-email: ys3853428@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12
+License-File: LICENSE
+Requires-Dist: numpy>=2.0.0
+Requires-Dist: matplotlib>=3.9.0
+Requires-Dist: Jinja2>=3.1.4
+Requires-Dist: scikit-learn>=1.0
