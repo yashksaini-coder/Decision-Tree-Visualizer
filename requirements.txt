@@ -1,6 +1,3 @@
 numpy
 matplotlib
-copy
-sys
-json
 jinja2
