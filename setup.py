@@ -6,7 +6,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setup(
-    name="d-treevis",
+    name="decision-tree-visualizer",
     version="1.0.0",
     description="A library to visualize sklearn Decision Tree Classifiers.",
     long_description=long_description,
