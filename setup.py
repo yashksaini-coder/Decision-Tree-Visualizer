@@ -10,6 +10,7 @@ setup(
     version="1.0.0",
     description="A library to visualize sklearn Decision Tree Classifiers.",
     long_description=long_description,
+    long_description_content_type='text/markdown',
     author="yashksaini-coder",
     author_email="ys3853428@gmail.com",
     license="MIT",
