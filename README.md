@@ -13,7 +13,7 @@ The Decision Tree Visualizer is a powerful library that allows you to visualize 
 To install the library, use pip:
 
 ```
-pip install d-treevis
+pip install decision-tree-visualizer
 ```
 
 ## 📖 **Usage**
